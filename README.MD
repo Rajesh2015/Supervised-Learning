@@ -11,6 +11,7 @@
 
 ## Naive Bayes
 - NaiveBayes.ipynb
+## KNN
 - KNN.ipynb
 - KNN%282%29.ipynb (KNN+ K value)
 - MLS3_Machine_Failure_Prediction (1).ipynb
