@@ -14,5 +14,8 @@
 ## KNN
 - KNN.ipynb
 - KNN%282%29.ipynb (KNN+ K value)
-- MLS3_Machine_Failure_Prediction (1).ipynb
+### Case Study Week 3
+- MLS3_Machine_Failure_Prediction (1).ipynb(Case Study)
+- M3W3_KNN_CS3_Network_intrusion(Case Study)
+- M3W3- CS2_Income_classifier - NB.ipynb(Case Study)
 
