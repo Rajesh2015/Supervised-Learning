@@ -20,4 +20,7 @@
 - MLS3_Machine_Failure_Prediction (1).ipynb(Case Study)
 - M3W3_KNN_CS3_Network_intrusion(Case Study)
 - M3W3- CS2_Income_classifier - NB.ipynb(Case Study)
+## Decession Tree
+- Decision_Tree_Hands_On.ipynb
+
 
