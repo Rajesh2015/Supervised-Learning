@@ -22,5 +22,7 @@
 - M3W3- CS2_Income_classifier - NB.ipynb(Case Study)
 ## Decession Tree
 - Decision_Tree_Hands_On.ipynb
+#### Case Study
+- Case+study-+DecisionTree
 
 
